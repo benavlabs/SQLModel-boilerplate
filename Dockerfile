@@ -1,6 +1,6 @@
 # --------- requirements ---------
 
-FROM python:3.11 as requirements-stage
+FROM python:3.11 AS requirements-stage
 
 WORKDIR /tmp
 
