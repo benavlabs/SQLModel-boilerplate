@@ -3,6 +3,9 @@
   <i>Yet another template to speed your FastAPI development up. This time, using SQLModel.</i>
 </p>
 
+> \[!IMPORTANT]
+> **This SQLModel boilerplate is no longer actively maintained.** For a maintained FastAPI starter, use the **[Fastro FastAPI-boilerplate](https://github.com/benavlabs/FastAPI-boilerplate)** (free, SQLAlchemy) or **[FastroAI](https://fastro.ai)** - the complete FastAPI SaaS template (auth, payments, AI, a frontend).
+
 <p align="center">
   <a href="https://github.com/igormagalhaesr/SQLModel-boilerplate">
     <img src="https://raw.githubusercontent.com/igorbenav/docs-images/main/sqlmodelboilerplate.png?raw=true" alt="Purple Rocket with FastAPI Logo as its window. There is a word FAST written" width="35%" height="auto">
@@ -1748,6 +1751,21 @@ This project is a SQLModel version of Fastapi-boilerplate:
 
 Benav Labs – [benav.io](https://benav.io)
 [github.com/benavlabs](https://github.com/benavlabs/)
+
+## Build a full SaaS on FastAPI
+
+Looking for a maintained, production-ready starter? **[FastroAI](https://fastro.ai)** is the complete FastAPI SaaS template from the same team: auth, Stripe payments, entitlements, transactional email, an Astro frontend, and PydanticAI agents, wired together and production-ready.
+
+<p align="center">
+  <a href="https://fastro.ai">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/benavlabs/fastcrud/raw/main/docs/assets/fastroai-card-dark.png">
+      <img src="https://github.com/benavlabs/fastcrud/raw/main/docs/assets/fastroai-card-light.png" alt="FastroAI - the complete FastAPI SaaS template: auth, Stripe payments, entitlements, email, frontend and AI" width="100%">
+    </picture>
+  </a>
+</p>
+
+<p align="center"><b><a href="https://fastro.ai">Ship your SaaS faster with FastroAI →</a></b></p>
 
 <hr>
 <a href="https://benav.io">
